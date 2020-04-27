@@ -1,0 +1,49 @@
+Menu : 1.Create 2.Read 3.Update 4.Delete 5.List
+6:Search(name) 7.Search(writer) 8.Search(publisher) 9.Search(status) 10.Search(location)
+11.Defragmentation 12.Sort 13.Load 14.Save 15.Report 0.Quit > 1
+
+Enter a new book's info.
+Name > 논리설계
+Writer > 이종원
+publisher > 한동대
+Status(possible:1 impossible:0) > 1
+Location > A-1-2-3
+
+Menu : 1.Create 2.Read 3.Update 4.Delete 5.List
+6:Search(name) 7.Search(writer) 8.Search(publisher) 9.Search(status) 10.Search(location)
+11.Defragmentation 12.Sort 13.Load 14.Save 15.Report 0.Quit > 2
+
+Enter a name > 논리설계
+Book info.
+Name : 논리설계
+Writer : ▒이종원
+Publisher : 한동대
+Status : 1
+Location : A-1-2-3
+
+Menu : 1.Create 2.Read 3.Update 4.Delete 5.List
+6:Search(name) 7.Search(writer) 8.Search(publisher) 9.Search(status) 10.Search(location)
+11.Defragmentation 12.Sort 13.Load 14.Save 15.Report 0.Quit > 3
+
+Enter a name > 논리설계
+Enter a updated info.
+Writer > 이종원교수님
+Publisher > 한동대학교
+Status > 0
+Location > B-3-2-1
+
+Menu : 1.Create 2.Read 3.Update 4.Delete 5.List
+6:Search(name) 7.Search(writer) 8.Search(publisher) 9.Search(status) 10.Search(location)
+11.Defragmentation 12.Sort 13.Load 14.Save 15.Report 0.Quit > 2
+
+Enter a name > 논리설계
+Book info.
+Name : 논리설계
+Writer : 이종원교수님
+Publisher : 한동대학교
+Status : 0
+Location : B-3-2-1
+
+Menu : 1.Create 2.Read 3.Update 4.Delete 5.List
+6:Search(name) 7.Search(writer) 8.Search(publisher) 9.Search(status) 10.Search(location)
+11.Defragmentation 12.Sort 13.Load 14.Save 15.Report 0.Quit > 0
